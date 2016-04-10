@@ -1,4 +1,4 @@
-foldername <- "/Users/swatimital/GitHub/TimeSeriesAnalysis/"
+foldername <- "/Users/1000084/GitHub/TimeSeriesAnalysis/"
 source(paste(foldername, "TimeSeriesData.r", sep=""))
 source(paste(foldername, "StochasticVarFitting.r", sep=""))
 source(paste(foldername, "StochasticVarForecasting.r", sep=""))
